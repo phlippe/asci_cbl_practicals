@@ -82,6 +82,7 @@ Please remember that we do not allow any form of plagiarism. Any plagiarism will
    :caption: Practicals
    :maxdepth: 2
 
+   notebooks/Introduction_to_PyTorch.ipynb
    notebooks/1_MLPs.ipynb
    notebooks/2_CNNs.ipynb
    notebooks/3_Vision_Transformers.ipynb
