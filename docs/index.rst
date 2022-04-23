@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Practicals of the ASCI Computer Vision by Learning course!
-=========================================================================
+Welcome to the ASCI Computer Vision by Learning course!
+=======================================================
 
 | *Course website*: http://computervisionbylearning.info/
 | *Course edition*: May, 2022
