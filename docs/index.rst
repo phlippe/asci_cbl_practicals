@@ -72,6 +72,7 @@ Report submission
 -----------------
 
 | *Submission email*: asci.cbl.practicals@googlemail.com
+| *Deadline*: 31. May, 2022 (23:59 CEST)
 
 At the end of the course, you are expected to submit a report about your findings of your practicals. The report should be prepared as a PDF in the LaTeX template provided in the repository at `report/`. In the report, you are expected to answer the questions in the practicals, and include any figures requested in the practicals (e.g. the training and/or evaluation curves of a model). Your report should have roughly 1 page per practical, with a maximum of 8 pages. For submission, add your report to your filled notebooks as a zip file and send it to asci.cbl.practicals@googlemail.com. Please make sure to **clear all outputs of the notebooks** before submitting, and **exclude any datasets or trained models from your submission**.
 
