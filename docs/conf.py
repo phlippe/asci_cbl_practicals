@@ -22,7 +22,7 @@ copyright = '2022, Phillip Lippe'
 author = 'Phillip Lippe'
 
 # The full version, including alpha/beta/rc tags
-release = 'v0.1'
+release = 'v1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -33,8 +33,7 @@ release = 'v0.1'
 extensions = [
 	'nbsphinx',
 	'sphinx.ext.mathjax',
-	'sphinx_rtd_theme',
-    'sphinx_gallery.load_style',  # load CSS for gallery (needs SG >= 0.6)
+	'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -65,4 +64,5 @@ nbsphinx_execute_arguments = [
     "--InlineBackend.figure_formats={'svg', 'pdf'}",
     "--InlineBackend.rc={'figure.dpi': 96}",
 ]
+nbsphinx_allow_errors = True
 # pygments_style = 'sphinx'

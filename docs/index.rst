@@ -40,7 +40,7 @@ Schedule
 |                                          |                                                   |
 |                                          | Practical 3: Vision Transformers                  |
 +------------------------------------------+---------------------------------------------------+
-| Wednesday, 11. May 2022                  | Practical 4: Geometric Deep Learning              |
+| Wednesday, 11. May 2022                  | Practical 4: Regular Group Convolutions           |
 +------------------------------------------+---------------------------------------------------+
 | Thursday, 12. May 2022                   | Practical 5: Self-Supervised Contrastive Learning |
 +------------------------------------------+---------------------------------------------------+
@@ -87,5 +87,5 @@ Please remember that we do not allow any form of plagiarism. Any plagiarism will
    notebooks/1_MLPs.ipynb
    notebooks/2_CNNs.ipynb
    notebooks/3_Vision_Transformers.ipynb
-   notebooks/4_Equivariance.ipynb
+   notebooks/4_Regular_Group_Convolutions.ipynb
    notebooks/5_Self_Supervised_Learning.ipynb
