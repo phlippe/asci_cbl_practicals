@@ -11,6 +11,12 @@ Welcome to the ASCI Computer Vision by Learning course!
 | *Repository*: https://github.com/phlippe/asci_cbl_practicals/
 | *Author*: Phillip Lippe
 
+-----
+
+**UPDATE (May 11)**: To reduce the workload, we decided that each group only has to do Practical 1-3, and choose between Practical 4 **or** Practical 5, but don't require to do both. Each group can individually choose one of the two advanced practicals based on their interests, and are allowed to skip the other practical.
+
+-----
+
 This website provides you access to the content that we will use for the practical session at the ASCI course "Computer Vision by Learning".
 In the course, you will conduct 5 practicals to different topics in the domain of machine and deep learning for Computer Vision, with increasing complexity to recent research topics in the field.
 Throughout the course, you will be guided by Teaching Assistant that help you with any question you may have.
